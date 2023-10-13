@@ -9,6 +9,11 @@ symbol horizontally, vertically, or diagonally.
 The game is won when a player achieves this, 
 and it's a draw if the grid is filled without a winner.
 
+GitHub Link
+
+https://github.com/ju1iaa/tictactoe
+
+
 """
 
 from tkinter import *
